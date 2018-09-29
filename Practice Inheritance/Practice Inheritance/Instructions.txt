@@ -1,0 +1,21 @@
+﻿Practice Inheritance in C#
+
+1st Challenge
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Add a MediaType basae class to your program.
+	a) Add a public field named 'Title' of type 'string'.
+	b) Add a constructor to the MediaType class.
+		* Define a parameter named 'title' of type 'string'.
+		* Initialize the 'Title' field using the 'title' parameter.
+
+2. Update your existing media type classes to inherit from the MediaType base class.
+	a) Call the base class' constructor from each of the media type subclasses.
+
+3. Review your media type subclasses and remoce any 'Title' field definitions from those classes.
+	a) Remoce any constructor initialization code related to the removed 'Title' fields.
+
+
+2nd  Challenge
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
